@@ -1,3 +1,3 @@
-const tr1624json = require('./tr1624.json')
+const tr1894json = require('./tr1894.json')
 
-module.exports = tr1624json
+module.exports = tr1894json
